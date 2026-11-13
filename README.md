@@ -1,2 +1,3 @@
 
-"Advance Electricity Bill Calculator - NSP Subject Project, Build Using, JAVA And MySQL"
+# Advance Electricity Bill Calculator 
+NSP Subject Project, Built Using, JAVA And MySQL.
